@@ -15,7 +15,7 @@ Currently, I am expanding my knowledge in Statistics, Machine Learning, and Data
 
 📊 Strong foundation in Data Analytics and Data Visualization
 
-🐍 Skilled in Python, SQL, and Data Analysis Libraries
+💡 Skilled in Python, SQL, and Data Analysis Libraries
 
 📈 Exploring Machine Learning
 
