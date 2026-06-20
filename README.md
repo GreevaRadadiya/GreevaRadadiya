@@ -67,7 +67,7 @@ My focus is not only on learning tools and technologies but also on developing t
 
 ## Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/greeva-radadiya-b3029b378
+* LinkedIn: www.linkedin.com/in/greeva-radadiya-b3029b378
 
 * Email: greevaradadiya22@gmail.com
 
